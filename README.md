@@ -1,5 +1,7 @@
 # Dogs Breed Classifier
-The primary objective of this project is to develop a dog breed classifier using Xception. After initially trying a simple CNN and also exploring RestGen, I found that Xception gave the best results.
+First of all, I would like to mention that I'm still a beginner and the primary motivation behind creating this project, and basically all the project I do, is to improve my skills and keep learning, in this case I wanted to practice DL and TensorFlow by using an image classification, so don't hesitate to correct it or give me some feedback, it would be much appreciated.
+
+I developed a dog breed classifier using Xception. After initially trying a simple CNN and also exploring RestGen, I found that Xception gave the best results.
 
 Due to computational reasons, I opted to use Google Colab.
 
